@@ -30,7 +30,7 @@ I'm a post-doc researcher in the [Prediction and Learning Lab](https://www.lawso
 
 You can read more about me here, and what I have done here.
 
-I'm trying to get into blogging on random topics, but I wrote a fairly extensive blog about PhD applications here.
+I'm trying to get into blogging/making notes on random topics, but I wrote a fairly extensive blog about PhD applications here.
 
 Feel free to click the email button below if you want to get in touch, or follow me on BlueSky.
 
