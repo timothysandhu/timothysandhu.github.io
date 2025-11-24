@@ -25,34 +25,12 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Here&#39;s a very lightweight CV - get in touch if you would like",
+          description: "Here&#39;s a very lightweight CV - get in touch if you would like a proper one",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-things-i-wish-i-knew",
-        
-          title: "things I wish I knew",
-        
-        description: "not complete",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/how_to_jekyll/";
-          
-        },
-      },{id: "post-how-i-made-this-website",
-        
-          title: "how I made this website",
-        
-        description: "my guide to github pages",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/how-to/";
-          
-        },
-      },{id: "post-how-to-apply-for-phd-39-s",
+        },{id: "post-how-to-apply-for-phd-39-s",
         
           title: "how to apply for PhD&#39;s",
         
@@ -60,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/phd_blog/";
+            window.location.href = "/blog/phd_blog/";
           
         },
       },{id: "books-the-godfather",
