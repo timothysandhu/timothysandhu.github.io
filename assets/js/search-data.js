@@ -41,6 +41,17 @@ ninja.data = [{
             window.location.href = "/blog/phd_blog/";
           
         },
+      },{id: "post-cbu-methods-day-2022",
+        
+          title: "CBU Methods Day 2022",
+        
+        description: "link to my talk at CBU Methods Day 2022",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/cbu_methods_day/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
